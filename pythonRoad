@@ -1,0 +1,23 @@
+#addition
+val1= float(input("enter first value tonee"))
+val2= float(input("enter second value tonee"))
+sum = val1 + val2
+print()
+print()
+print()
+print(sum)
+
+
+
+#square root code
+
+num = float (input("enter the number: "))
+sqrt_num = num**.5
+print()
+print("square root of entered number is ")
+print(sqrt_num)
+
+num = float (input("enter the number: "))
+sqrt_num = num**.5
+print()
+print("square root of entered %.3f is %.3f'" %(num , sqrt_num))
