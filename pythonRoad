@@ -59,3 +59,13 @@ print(my_list.index(30))
 print(sorted(my_list))
 my_list.sort(reverse=True)
 print(my_list)
+
+
+my_dict={}
+print(my_dict)
+my_dict={'Firstly': 'dog', 'Secondly': 'cat'}
+print(my_dict)
+my_dict['Firstly'] = 'mouse'
+print(my_dict)
+my_dict['Thirdly'] = 'bucky'
+print(my_dict)
