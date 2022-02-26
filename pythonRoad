@@ -48,3 +48,5 @@ my_list.remove('dog')
 print(my_list)
 a= my_list[7]
 print('here it is :',a,'this is what you were looking for')
+my_list.clear()
+print(my_list)
