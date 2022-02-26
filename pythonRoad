@@ -31,3 +31,20 @@ my_list.append([33,'hogwards'])
 my_list.insert(1, 4564)
 my_list.extend([56, 86, 99, 100, 'ok'])
 print(my_list)
+
+
+my_list=[]
+print(my_list)
+my_list=[1,2,3,'dog',3.453]
+print(my_list)
+my_list.append([33,'hogwards'])
+my_list.insert(1, 4564)
+my_list.extend([56, 86, 99, 100, 'ok'])
+print(my_list)
+print(my_list[6])
+print(my_list[7])
+del my_list[6]
+my_list.remove('dog')
+print(my_list)
+a= my_list[7]
+print('here it is :',a,'this is what you were looking for')
