@@ -21,3 +21,13 @@ num = float (input("enter the number: "))
 sqrt_num = num**.5
 print()
 print("square root of entered %.3f is %.3f'" %(num , sqrt_num))
+
+
+my_list=[]
+print(my_list)
+my_list=[1,2,3,'dog',3.453]
+print(my_list)
+my_list.append([33,'hogwards'])
+my_list.insert(1, 4564)
+my_list.extend([56, 86, 99, 100, 'ok'])
+print(my_list)
