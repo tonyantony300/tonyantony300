@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonyantony an Engineer, Reader, Backpacker and a fitness enthisiast.
 - 👀 I’m interested in increasing productivity with programming.
-- 🌱 I’m currently learning python and Netlogo.
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Data projects.
 - 📫 reach out to me on tonyantony300@gmail.com
 
