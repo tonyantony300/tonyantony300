@@ -4,7 +4,7 @@ Hi 👋 My name is TONY ANTONY
 Engineer
 --------
 
-I am someone who is getting into coding. Changing career from conventional engineering to a software Engineering.
+I am someone who is getting into coding. Changing career from conventional engineering to software Engineering.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](http://tonyantony300.github.io/portfolio/)
