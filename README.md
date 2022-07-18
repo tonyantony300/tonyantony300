@@ -3,10 +3,10 @@ Hi, My name is tony
 
 Engineer
 --------
-I make and fix things. I talk to people and machines.
+I make and fix stuff. I talk to people and machines. I fail and learn.
 
 
-*   🌍  I'm based in India
+*   🌍  I have my roots in India.
 *   🖥️  See my portfolio at [Portfolio](http://tonyantony300.github.io/portfolio/)
 *   ✉️  You can contact me at [tonyantony300@gmail.com](mailto:tonyantony300@gmail.com)
 *   🚀  I'm currently working on [Personal projects](http://github.com/tonyantony300)
