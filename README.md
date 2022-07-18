@@ -3,8 +3,8 @@ Hi, My name is tony
 
 Engineer
 --------
+I make and fix things. I talk to people and machines.
 
-I am someone who is getting into coding. Changing career from conventional engineering to software Engineering.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](http://tonyantony300.github.io/portfolio/)
