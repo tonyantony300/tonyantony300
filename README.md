@@ -10,7 +10,7 @@ I am someone who is getting into coding. Changing career from conventional engin
 *   🖥️  See my portfolio at [Portfolio](http://tonyantony300.github.io/portfolio/)
 *   ✉️  You can contact me at [tonyantony300@gmail.com](mailto:tonyantony300@gmail.com)
 *   🚀  I'm currently working on [Personal projects](http://github.com/tonyantony300)
-*   🧠  I'm learning React
+*   🧠  I'm learning Front-End technologies
 *   🤝  I'm open to collaborating on interesting projects
 ### Skills
 <p align="left">
