@@ -9,9 +9,13 @@ I make and fix stuff. I talk to people and machines. I fail and learn.
 *   🌍  I have my roots in India.
 *   🖥️  See my portfolio at [Portfolio](http://tonyantony300.github.io/portfolio/)
 *   ✉️  You can contact me at [tonyantony300@gmail.com](mailto:tonyantony300@gmail.com)
-*   🚀  I'm currently working on [Personal projects](http://github.com/tonyantony300)
+*   🚀  I'm currently working on React
 *   🧠  I'm learning Front-End technologies
 *   🤝  I'm open to collaborating on interesting projects
+
+*** disclaimer : there are no copyrights assosiated with any of the works so far, also not all projects are made from scratch, I refered and ofcourse copied/received help for many bytes of code from devs across internet. So Feel free to duplicate works as you wish! 
+
+
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
