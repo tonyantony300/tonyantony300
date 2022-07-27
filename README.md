@@ -17,7 +17,5 @@ I make and fix stuff. I talk to people and machines. I fail and learn.
 
 
 
-*** disclaimer : there are no copyrights assosiated with any of the works so far, also not all projects are made from scratch, I refered and copied/received help for many bytes of code from devs across internet. So Feel free to duplicate works as you wish! ***
-
 
 
