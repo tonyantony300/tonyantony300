@@ -3,7 +3,7 @@ Hi, My name is tony
 
 Engineer
 --------
-I want to engineer stuff. I talk to people and machines. I fail and learn.
+I do engineering stuff. I talk to people and machines. I fail and learn.
 
 
 *   🌍  I have my roots in India.
