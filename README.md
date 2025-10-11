@@ -9,4 +9,3 @@ Outside of code and Figma, you’ll find me hitting the gym, watching Sci-fi, or
 
 Fun Facts: 
   - Starwars is my favorite franchise.
-  - You probably can't beat me on a pushup competition.
