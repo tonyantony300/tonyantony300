@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I’m Tony — an Electronics & Communications Engineer turned Software Developer, based in India.
+I’m Tony - an Electronics & Communications Engineer turned Software Developer, based in India.
 
 I enjoy building simple, practical tools that make people’s lives a little easier.
 
