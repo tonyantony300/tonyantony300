@@ -1,9 +1,9 @@
 
-## Hi there! 👋
+## Hi there 👋
 
-I’m Tony, a frontend design engineer based in India.
+I’m Tony — an Electronics & Communications Engineer turned Software Developer, based in India.
 
-I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
+I enjoy building simple, practical tools that make people’s lives a little easier.
 
-Outside of code and Figma, you’ll find me hitting the gym, watching Sci-fi, or reading HN. 
+When I’m not coding, you’ll probably find me at the gym 💪, watching sci-fi 🚀, or reading random blogs on the internet.
 
