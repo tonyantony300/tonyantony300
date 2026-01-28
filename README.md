@@ -5,5 +5,5 @@ I’m Tony - an Electronics & Communications Engineer turned Software Developer,
 
 I enjoy building simple, practical tools that make people’s lives a little easier.
 
-When I’m not coding, you’ll probably find me at the gym 💪, watching sci-fi 🚀, or reading random blogs on the internet.
+When I’m not coding, you’ll probably find me reading random blogs on HN, watching sci-fi 🚀, or at the gym.
 
