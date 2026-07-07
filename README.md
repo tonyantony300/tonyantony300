@@ -3,7 +3,7 @@
 
 Curiosity led me into software later than most, and I've been building ever since.
 
-I'm motivated by creating software that's genuinely useful—tools that solve real problems and make people's lives a little easier. 
+I'm motivated by creating software that's genuinely useful tools that solve real problems and make people's lives a little easier. 
 
 I also believe strongly in individual agency, and I see open source as one of the best ways to empower people and preserve that freedom.
 
