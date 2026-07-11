@@ -7,7 +7,7 @@ I'm motivated by creating software that's genuinely useful tools that solve real
 
 I also believe strongly in individual agency, and I see open source as one of the best ways to empower people and preserve that freedom.
 
-Outside of coding, you'll usually find me reading interesting blogs from Hacker News, watching videos about fishing or engineering, or spending time in the gym.
+Outside of coding, you'll usually find me reading interesting blogs from Hacker News or spending time in the gym.
 
 Support my efforts here - [github sponsors](https://github.com/sponsors/tonyantony300) ❤️
 
